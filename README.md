@@ -16,8 +16,8 @@ gemini api 사용하도록 코드 변경
 
 ```
 response = model.generate_content([
-    "Describe this image in detail:",// 여긴 지시문이다. 우리가 원하는 내용 얻을 수 있도록 만들기(ex 어느 정도 성장?, 팁 얻기)
-    {"mime_type": "image/jpeg", "data": image_data} (level이 저장된 변수 주기, 촬영한 프레임 주기(image_path에 저장) - 다양한 방식으로 데이터 전달해보기)
+    "Describe this image in detail:",# 여긴 지시문이다. 우리가 원하는 내용 얻을 수 있도록 만들기(ex 어느 정도 성장?, 팁 얻기)
+    {"mime_type": "image/jpeg", "data": image_data} # level이 저장된 변수 주기, 촬영한 프레임 주기(image_path에 저장) - 다양한 방식으로 데이터 전달해보기)
 ])
 
 ```
