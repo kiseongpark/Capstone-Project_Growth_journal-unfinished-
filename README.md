@@ -6,7 +6,7 @@ Gemini api 사용하도록 코드 변경
 [참고 링크](https://www.magicaiprompts.com/docs/develop-ai-service/gemeni-multimodal-api/)
 
 
-** 여기서 2번 잘 참고해서 만들어 보기
+** 특히 2번 잘 참고해서 만들어 보기
 
 
 0. api 사용환경 잘 구축하기
