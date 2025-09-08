@@ -1,6 +1,6 @@
 ## 추가 해야할 것
 
-gemini api 사용하도록 코드 변경
+Gemini api 사용하도록 코드 변경
 
 
 [참고 링크](https://www.magicaiprompts.com/docs/develop-ai-service/gemeni-multimodal-api/)
